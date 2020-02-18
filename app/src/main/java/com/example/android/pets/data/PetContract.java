@@ -2,7 +2,7 @@ package com.example.android.pets.data;
 
 import android.provider.BaseColumns;
 
-public class PetContract {
+public final class PetContract {
 
     private PetContract() {}
 
